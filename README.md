@@ -2,7 +2,7 @@
 
 This project i want to show my demo when i learn basic ReactJs.
 Project show fake data and control components.
-Link this tutorial [https://reactjs.org/docs/thinking-in-react.html](Thinking in React)
+Link this tutorial [https://reactjs.org/docs/thinking-in-react.html] (Thinking in React)
 
 ## Available Scripts
 
